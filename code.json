@@ -10,13 +10,13 @@
         "URL": ""
       }
     ],
-    "usageType": [],
+    "usageType": [openSource],
     "exemptionText": ""
   },
   "organization": "United States Web Design System",
   "repositoryURL": "https://github.com/uswds/uswds-savings",
   "repositoryVisibility": "public",
-  "homepageURL": "",
+  "homepageURL": "https://uswds.github.io/uswds-savings",
   "downloadURL": "",
   "disclaimerURL": "",
   "disclaimerText": "",
@@ -26,8 +26,8 @@
     "forks": 0,
     "clones": 0
   },
-  "platforms": [],
-  "categories": [],
+  "platforms": [web],
+  "categories": [datavisualization],
   "languages": [
     "Python"
   ],
@@ -43,7 +43,8 @@
   },
   "tags": [
     "public-sector",
-    "uswds"
+    "uswds",
+    "data-visualization"
   ],
   "contact": {
     "email": "opensource@cms.hhs.gov",
