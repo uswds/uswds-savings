@@ -4,7 +4,7 @@ This repository contains lightweight Python tools designed to estimate the cost 
 
 It contains two distinct analyses:
 1. **USWDS Federal Impact:** A highly accurate estimate of the U.S. Web Design System's value across live federal domains.
-2. **Civic Design Systems Comparison:** A comparative analysis evaluating USWDS against international (GOV.UK) and state-level (NYSDS) peers using open-source proxies.
+2. **Civic Design Systems Comparison:** A comparative analysis evaluating USWDS against international (GOV.UK) and state-level (NYSDS) peers using open source proxies.
 
 ---
 
