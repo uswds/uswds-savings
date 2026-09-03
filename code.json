@@ -13,7 +13,7 @@
     "usageType": [],
     "exemptionText": ""
   },
-  "organization": "Centers for Medicare & Medicaid Services",
+  "organization": "United States Web Design System",
   "repositoryURL": "https://github.com/uswds/uswds-savings",
   "repositoryVisibility": "public",
   "homepageURL": "",
@@ -46,8 +46,8 @@
     "uswds"
   ],
   "contact": {
-    "email": "",
-    "name": ""
+    "email": "opensource@cms.hhs.gov",
+    "name": "CMS Open Source Program Office"
   },
   "feedbackMechanism": "https://github.com/uswds/uswds-savings/issues",
   "AIUseCaseID": "0",
