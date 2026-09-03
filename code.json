@@ -7,10 +7,10 @@
     "licenses": [
       {
         "name": "CC0-1.0",
-        "URL": ""
+        "URL": "https://github.com/uswds/uswds-savings/blob/main/LICENSE"
       }
     ],
-    "usageType": [openSource],
+    "usageType": ["openSource"],
     "exemptionText": ""
   },
   "organization": "United States Web Design System",
@@ -26,8 +26,8 @@
     "forks": 0,
     "clones": 0
   },
-  "platforms": [web],
-  "categories": [datavisualization],
+  "platforms": ["web"],
+  "categories": ["data-visualization"],
   "languages": [
     "Python"
   ],
