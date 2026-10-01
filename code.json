@@ -10,7 +10,9 @@
         "URL": "https://github.com/uswds/uswds-savings/blob/main/LICENSE"
       }
     ],
-    "usageType": ["openSource"],
+    "usageType": [
+      "openSource"
+    ],
     "exemptionText": ""
   },
   "organization": "United States Web Design System",
@@ -21,13 +23,17 @@
   "disclaimerURL": "",
   "disclaimerText": "",
   "vcs": "git",
-  "laborHours": 3041,
+  "laborHours": 3088,
   "reuseFrequency": {
-    "forks": 0,
+    "forks": 2,
     "clones": 0
   },
-  "platforms": ["web"],
-  "categories": ["data-visualization"],
+  "platforms": [
+    "web"
+  ],
+  "categories": [
+    "data-visualization"
+  ],
   "languages": [
     "Python"
   ],
@@ -38,13 +44,12 @@
   "partners": [],
   "date": {
     "created": "2026-09-03T20:14:50Z",
-    "lastModified": "2026-09-03T20:20:15Z",
-    "metadataLastUpdated": "2026-09-03T20:22:18.953Z"
+    "lastModified": "2026-09-28T03:10:13Z",
+    "metadataLastUpdated": "2026-10-01T00:51:41.733Z"
   },
   "tags": [
     "public-sector",
-    "uswds",
-    "data-visualization"
+    "uswds"
   ],
   "contact": {
     "email": "opensource@cms.hhs.gov",
@@ -55,5 +60,9 @@
   "localisation": false,
   "userInput": false,
   "group": "",
+  "projects": [],
+  "systems": [],
+  "subsetInHealthcare": [],
+  "userType": [],
   "maturityModelTier": 0
 }
